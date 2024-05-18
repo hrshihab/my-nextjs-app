@@ -1,7 +1,11 @@
-import { Inter } from "next/font/google";
+import { Inter, Orbitron, Fondamento, Merienda } from "next/font/google";
 import "./globals.css";
+import Navbar from "./components/shared/Navbar";
 
 const inter = Inter({ subsets: ["latin"] });
+const orbitron = Orbitron({ subsets: ["latin"] });
+// const fondamento = Fondamento({ subsets: ["latin"], weight: "200" });
+const merienda = Merienda({ subsets: ["latin"] });
 
 export const metadata = {
   title: "Create Next App",
@@ -11,7 +15,10 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={merienda.className}>
+        <Navbar />
+        {children}
+      </body>
     </html>
   );
 }

@@ -1,0 +1,64 @@
+{
+  "shoes": [
+    {
+      "title": "Stylish Sneakers",
+      "price": 59.99,
+      "description": "Comfortable and stylish sneakers for everyday wear.",
+      "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+      "title": "Classic Wristwatch",
+      "price": 2226.99,
+      "description": "Elegant wristwatch with leather strap.",
+      "image": "https://img.daisyui.com/images/stock/photo-1517841905240-472988babdf9.jpg"
+    },
+    {
+      "title": "Leather Backpack",
+      "price": 79.99,
+      "description": "Durable leather backpack for your daily commute.",
+      "image": "https://img.daisyui.com/images/stock/photo-1534126511673-b6899657816a.jpg"
+    },
+    {
+      "title": "Gaming Laptop",
+      "price": 999.99,
+      "description": "High-performance laptop for gaming and work.",
+      "image": "https://img.daisyui.com/images/stock/photo-1501127122-f385ca6ddd9d.jpg"
+    },
+    {
+      "title": "DSLR Camera",
+      "price": 499.99,
+      "description": "Capture stunning photos with this DSLR camera.",
+      "image": "https://img.daisyui.com/images/stock/photo-1501973801545-e2d32e9f1060.jpg"
+    },
+    {
+      "title": "Wireless Headphones",
+      "price": 199.99,
+      "description": "Experience high-quality sound with these wireless headphones.",
+      "image": "https://img.daisyui.com/images/stock/photo-1495094674326-cfa7d49feef3.jpg"
+    },
+    {
+      "title": "Smartphone",
+      "price": 699.99,
+      "description": "Stay connected with the latest smartphone technology.",
+      "image": "https://img.daisyui.com/images/stock/photo-1580281657521-3b8d9c0dfc2c.jpg"
+    },
+    {
+      "title": "Fiction Book",
+      "price": 14.99,
+      "description": "Lose yourself in this gripping fictional tale.",
+      "image": "https://img.daisyui.com/images/stock/photo-1574180045827-681f8a1a9622.jpg"
+    },
+    {
+      "title": "Tablet",
+      "price": 399.99,
+      "description": "Portable and powerful tablet for all your needs.",
+      "image": "https://img.daisyui.com/images/stock/photo-1593642532973-d31b6557fa68.jpg"
+    },
+    {
+      "title": "Running Shoes",
+      "price": 89.99,
+      "description": "Perfect running shoes for your daily exercise.",
+      "image": "https://img.daisyui.com/images/stock/photo-1503023345310-bd7c1de61c7d.jpg"
+    }
+  ]
+}
