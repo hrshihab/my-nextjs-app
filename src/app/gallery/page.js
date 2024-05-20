@@ -8,6 +8,8 @@ export const metadata = {
 };
 
 const page = () => {
+  throw new Error("This is a test error");
+
   return (
     <div>
       <h1 className="text-center font-bold text-3xl">My Gallery</h1>
